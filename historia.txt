@@ -2,4 +2,4 @@ Hola este es un archivo de prueba
 
 Y esta es una prueba despues del commit
 
-hoy hablaremos de su vida
+hoy hablaremos de su vida y su obra maestra como maestro de programacion
